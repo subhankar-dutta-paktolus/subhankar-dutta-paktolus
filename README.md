@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px"/>, I'm Subhankar Dutta
+### Hi there <img src="https://media.tenor.com/A7eequnhcGwAAAAM/hand.gif" width="40px"/>, I'm Subhankar Dutta
 
 - 🔭 I’m currently working on Neosoft Technologies                                               
 - 🌱 I’m currently Laravel and Android Developer
