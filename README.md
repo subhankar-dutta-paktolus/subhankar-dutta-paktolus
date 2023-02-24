@@ -1,10 +1,8 @@
 ### Hi there <img src="https://media.tenor.com/A7eequnhcGwAAAAM/hand.gif" width="40px"/>, I'm Subhankar Dutta
 
-- 🔭 I’m currently working on Neosoft Technologies                                               
-- 🌱 I’m currently Laravel and Android Developer
-- 👯 I’m looking to collaborate on teaching instute
+- 🔭 I’m currently working on Paktolus
+- 🌱 I’m currently PHP developer
 - 💬 Ask me about Android, Web Developement 
-- 📫 How to reach me: instagram :instagram.com/ig_kripton/ 
 - 😄 Pronouns: He/His
 ---
 
